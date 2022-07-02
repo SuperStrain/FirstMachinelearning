@@ -189,7 +189,7 @@ if __name__=='__main__':
     # Chinese_text_demo()
     # tfidf_demo()
     # minmax_demo()
-    # standard_demo()
+    standard_demo()
     # variance_demo()
-    pca_demo()
+    # pca_demo()
 
